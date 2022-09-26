@@ -1,14 +1,14 @@
-.wrap{
+wrap{
 background-color: #0D5C63;
 overflow: auto;
 position: center;
 }
-.h1{
+h1{
 font-size: 5em;
 color: #FFFFFA;
 border: 0.5em solid #44A1A0;
 }
-.h2{
+h2{
 font-size: 2em;
 color: #44A1A0;
 }
